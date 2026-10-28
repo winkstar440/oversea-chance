@@ -1,6 +1,7 @@
 # oversea-chance
 
 # 啟程 Embark
+https://winkstar440.github.io/oversea-chance/
 
 為手持特區護照 / BNO 的香港人而設的海外機會探索平台。把分散在各國政府網站、論壇與社群裡的出路，整合到一個零依賴、手機可用的互動頁面。
 
